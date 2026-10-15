@@ -18,12 +18,12 @@ Computer vision solution for automating the visual qualification of pharmaceutic
 
 ## System Architecture
 
-![Multi-head pipeline architecture](assets/architecture.png)
+![Multi-head pipeline architecture](architecture.png)
 
 ## Edge Prototype
 
-![Portable edge computing prototype](assets/prototype.png)
+![Portable edge computing prototype](prototype.png)
 
 ## Explainability (XAI)
 
-![Class-wise heatmaps overlaid on borescope images](assets/xai.png)
+![Class-wise heatmaps overlaid on borescope images](xai.png)
