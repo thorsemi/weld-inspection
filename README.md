@@ -6,7 +6,7 @@ Developed as a Master's Thesis project at the **Technical University of Denmark 
 
 ---
 
-## 📌 Overview
+## Overview
 
 - **End-to-End Ownership:** Directed the full engineering lifecycle—from borescope video acquisition and color-space pre-screening to edge model deployment and XAI integration.
 - **Two-Stage Inspection Pipeline:** 
